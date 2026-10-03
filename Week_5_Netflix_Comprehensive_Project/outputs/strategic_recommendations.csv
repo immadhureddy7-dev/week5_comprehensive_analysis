@@ -1,0 +1,8 @@
+Recommendation,Reason
+Monitor the balance between Movies and TV Shows when evaluating catalog composition.,Catalog composition can change over time and should be monitored.
+Use country-level catalog analysis to identify regional content opportunities.,Country-level patterns can reveal geographic concentration and potential expansion areas.
+Track high-frequency genres and evaluate whether content investment aligns with audience demand.,Genre patterns provide a measurable view of catalog composition.
+Use rating distributions to support audience segmentation and content categorization.,Ratings provide information about the type of audience a title may target.
+Combine statistical findings with descriptive analysis rather than relying on a single metric.,Multiple analytical methods provide a broader evidence base.
+Compare multiple machine learning algorithms before selecting a production model.,A single baseline model may not capture all patterns in the dataset.
+"Improve the model using additional features, cross-validation and hyperparameter tuning.",Additional modeling can improve robustness and generalization.

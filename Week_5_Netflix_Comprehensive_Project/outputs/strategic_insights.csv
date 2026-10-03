@@ -1,0 +1,7 @@
+Area,Finding
+Catalog Composition,Movies represent 69.62% and TV Shows represent 30.38% of the catalog.
+International Presence,United States has the highest number of associated titles among the countries represented in the dataset.
+Genre,International Movies is the most frequently listed genre/category.
+Rating,TV-MA is the most frequently observed content rating.
+Statistical Analysis,Welch t-test p-value = 0.000000; Chi-square p-value = 0.000000.
+Machine Learning,"Logistic Regression achieved accuracy=0.7037, F1=0.2457, ROC-AUC=0.7163."
